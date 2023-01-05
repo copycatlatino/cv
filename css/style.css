@@ -8,6 +8,6 @@ hr {
     border-width: 5px;
     height: 0px;
 }
-h3 {
+h3, h1 {
     color: #66bfbf;
 }
